@@ -1,1 +1,3 @@
-# EDA-analysis
+EDA analysis ob heart failure clinical records
+
+Link to datasets:  https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
